@@ -11,7 +11,7 @@ Multiple of target:** ~6.0x
 ABG Motors (fictional Japan-based automaker) wants to know if the Indian market can support at least 10,000 vehicle sales. The company provided Japanese purchase history and an Indian customer sample.
 
 ## Approach
-- Trained a **Logistic Regression** model on 40,000 Japanese customers as the primary interpretable model
+- Trained a Logistic Regression model on 40,000 Japanese customers as the primary interpretable model
 - Benchmarked against XGBoost
 - Applied company-mandated car-age segments:
   - 1: <200 days
