@@ -49,5 +49,6 @@ Enter the Indian market based on the sample signal, but run a local pilot before
 
 ## How to Run
 ```bash
+cd C:\Users\DELL
 pip install -r requirements.txt
-jupyter notebook notebooks/ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb
+jupyter notebook ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb
