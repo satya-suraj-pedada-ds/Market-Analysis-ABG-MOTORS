@@ -5,7 +5,7 @@ Predicting new-vehicle purchase propensity to decide whether ABG Motors should e
 Decision: ENTER  
 Sample expected sales: ~60,318  
 Target: 10,000 vehicles  
-Multiple of target:** ~6.0x
+Multiple of target: ~6.0x
 
 ## Business Problem
 ABG Motors (fictional Japan-based automaker) wants to know if the Indian market can support at least 10,000 vehicle sales. The company provided Japanese purchase history and an Indian customer sample.
