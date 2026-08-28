@@ -70,3 +70,8 @@ abg-motors-india-market-entry/
     └── dashboard3_crm.png
 
 
+How to Run
+```bash
+cd C:\Users\DELL
+pip install -r requirements.txt
+jupyter notebook ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb
