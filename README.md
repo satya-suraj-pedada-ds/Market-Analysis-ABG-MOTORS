@@ -26,7 +26,7 @@ ABG Motors (fictional Japan-based automaker) wants to know if the Indian market 
 |---|---|
 | Logistic ROC-AUC | 0.76 |
 | XGBoost ROC-AUC | 0.78 |
-| Strongest driver | AGE_SEG_4 odds ratio ≈ 10.1x |
+| Strongest driver | AGE_SEG_4 odds ratio ≈ 10.10x |
 | Expected sales (sum of probabilities) | 60,318 |
 | Predicted buyers (p ≥ 0.5) | 67,362 |
 | Mean predicted probability | ~0.86–0.90 |
