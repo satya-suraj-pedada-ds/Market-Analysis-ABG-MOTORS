@@ -47,6 +47,28 @@ Enter the Indian market based on the sample signal, but run a local pilot before
 2. Model Performance & Drivers – metrics + odds ratios
 3. Indian Opportunity & CRM – segment targeting by probability threshold
 
+## Repository Structure
+```text
+abg-motors-india-market-entry/
+├── README.md
+├── requirements.txt
+├── notebooks/
+│   └── ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb
+├── data/
+│   ├── raw/
+│   │   ├── JPN_Data.xlsx
+│   │   └── IN_Data.xlsx
+│   └── processed/
+│       ├── Indian_Scored_Customers.csv
+│       ├── Logistic_Coefficients.csv
+│       └── Model_Performance_Comparison.csv
+├── tableau/
+│   └── ABG Motors – India Market Entry Decision.twb
+└── images/
+    ├── dashboard1_executive.png
+    ├── dashboard2_model_drivers.png
+    └── dashboard3_crm.png
+
 ## How to Run
 ```bash
 cd C:\Users\DELL
