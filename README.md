@@ -71,6 +71,5 @@ abg-motors-india-market-entry/
 
 ```
 ## How to Run
-cd C:\Users\DELL
-pip install -r requirements.txt
-jupyter notebook ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb
+- cd C:\Users\DELL
+- pip install -r requirements.txt jupyter notebook ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb
