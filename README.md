@@ -78,10 +78,10 @@ Open tableau/ABG Motors – India Market Entry Decision.twbx.
 
 Dashboard images:
 
-- dashboards/Dashboard-1.jpg
-- dashboards/Dashboard-2.jpg
-- dashboards/Dashboard-3.jpg
-- dashboards/Dashboard-4.jpg
+- dashboards/Dashboard-1 ABG Motors – India Market Entry Decision.jpg
+- dashboards/Dashboard-2 ABG Motors - Model Performance and Drivers.jpg
+- dashboards/Dashboard-3 ABG Motors - Indian Opportunity & CRM.jpg
+- dashboards/Dashboard-4 Japan Training Market What Drives Purchase.jpg
 
 ## How to run
 pip install -r requirements.txt
