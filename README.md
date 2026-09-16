@@ -85,9 +85,32 @@ Dashboard images:
 
 ## How to run
 pip install -r requirements.txt
-
 Run notebook/ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb with JPN Data.xlsx and IN_Data.xlsx in the notebook working folder. 
 
+## Repo
+
+```text
+ABG-Motors-India-Market-Entry/
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── raw/
+│   │   ├── JPN Data.xlsx
+│   │   └── IN_Data.xlsx
+│   └── processed/
+│       ├── Indian_Scored_Customers.csv
+│       ├── Logistic_Coefficients.csv
+│       └── Model_Performance_Comparison.csv
+├── notebook/
+│   └── ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb
+├── tableau/
+│   └── ABG Motors – India Market Entry Decision.twbx
+└── dashboards/
+    ├── Dashboard-1.jpg
+    ├── Dashboard-2.jpg
+    ├── Dashboard-3.jpg
+    └── Dashboard-4.jpg
+```
 
 ## What this is not
 
