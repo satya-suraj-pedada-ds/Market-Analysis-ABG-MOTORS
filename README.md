@@ -108,8 +108,15 @@ Run notebook/ABG-Motors-India-Market-Entry-Propensity-Analysis.ipynb with JPN Da
     ├── Dashboard-2.jpg
     ├── Dashboard-3.jpg
     └── Dashboard-4.jpg
-
 ```
+
+## What this is not
+
+- Not a national India forecast
+- Not a causal lift test
+- Not validated against actual India purchases (there is no India label)
+
+Next step: city pilot, rank AGE_SEG 3 and 4, A/B the CRM offer, then scale only if conversion holds.
 
 
 
