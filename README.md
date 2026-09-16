@@ -120,5 +120,17 @@ ABG-Motors-India-Market-Entry/
 
 Next step: city pilot, rank AGE_SEG 3 and 4, A/B the CRM offer, then scale only if conversion holds.
 
+## Risks
+
+1. Japan and India incomes sit on different scales. 60,318 is optimistic. Use 40,987 for planning.
+2. Each file is one city, not a national census.
+3. The model is correlational. It is not a lift test.
+4. India has no purchase label until a pilot exists.
+
+## Takeaway
+
+The sample supports a city pilot, not a national launch on day one.
+Plan against 40,987, rank AGE_SEG 3 and 4, and confirm conversion with CRM tests before scale-up.
+
 
 
